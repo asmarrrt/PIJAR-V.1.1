@@ -1,1 +1,0 @@
-Run: flask --app run.py db upgrade. For new environments, create migrations with flask --app run.py db migrate -m "initial" then upgrade.
